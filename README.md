@@ -6,9 +6,12 @@ Web Developer
 
 I've been learning how to code since 2017, learning different technologies and languages, but two years ago I found myself in Web Development, the things I could do and share through the web amazed me, so from that day forward, I've been learning everything I can about Web Dev. Current I learning ReactJS and NodeJS
 
-*   🌍  I'm based in Rolante / RS - Brazil
-*   ✉️  You can contact me at [bernardo.horbach@gmail.com](mailto:bernardo.horbach@gmail.com)
-*   🧠  I'm learning ReactJS### Skills 
+* 🌍  I'm based in Rolante / RS - Brazil
+* ✉️  You can contact me at [bernardo.horbach@gmail.com](mailto:bernardo.horbach@gmail.com)
+* 🧠  I'm learning ReactJS
+
+### Skills
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -27,15 +30,7 @@ I've been learning how to code since 2017, learning different technologies and l
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
+
 ### Socials
 
-<p align="left">
-  <a href="https://www.github.com/BernardoRh" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-      
-  <a href="https://www.linkedin.com/in/bernardo-horbach-442222202/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-</p>
+<p align="left"> <a href="https://www.github.com/BernardoRh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bernardo-horbach-442222202/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
