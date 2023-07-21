@@ -4,7 +4,7 @@ Hi 👋 My name is Bernardo R. Horbach
 Web Developer
 -------------
 
-I've been learning how to code since 2017, learning different technologies and languages, but two years ago I found myself in Web Development, the things I could do and share through the web amazed me, so from that day forward, I've been learning everything I can about Web Dev. Current I learning ReactJS and NodeJS
+I've been learning how to code since 2017, learning different technologies and languages, but two years ago I found myself in Web Development, the things I could do and share through the web amazed me, so from that day forward, I've been learning everything I can about Web Dev. Currently I'm learning ReactJS.
 
 * 🌍  I'm based in Rolante / RS - Brazil
 * ✉️  You can contact me at [bernardo.horbach@gmail.com](mailto:bernardo.horbach@gmail.com)
